@@ -1,0 +1,9 @@
+
+
+body {
+  font-family: 'Permanent Marker', cursive;
+}
+
+*, *:after, *:before {
+  box-sizing: border-box;
+}
